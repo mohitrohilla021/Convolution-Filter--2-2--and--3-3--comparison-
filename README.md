@@ -1,4 +1,4 @@
-# Convolution-Filter-2-2-and-3-3-comparison
+# Convolution-Filter-2/2-and-3/3-comparison
 
 Convolution is the process of adding each element of the image to its local neighbors, weighted by the kernel. 
 
